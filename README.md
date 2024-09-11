@@ -1,2 +1,2 @@
-# SSW-345
-Assignments related to the SSW-345 course will be posted here.
+# Homework #1
+The checklist used to complete this homework can be seen in the issue titled "Homework 1 Issue".
