@@ -1,3 +1,3 @@
 # SSW-345
 ## Homework #1
-The checklist used to complete this homework can be seen in the issue titled "Homework 1 Issue".
+The checklist used for this homework assignment can be seen in the issue called, "Homework #1".
